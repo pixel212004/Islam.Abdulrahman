@@ -636,7 +636,10 @@ footer {
 
   .email a {
     color: #f4cf70;
-    margin: 10px 10px;
-    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto;
+    font-size: 25px;
   }
 }
